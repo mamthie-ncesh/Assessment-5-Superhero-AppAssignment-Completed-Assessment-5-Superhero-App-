@@ -1,0 +1,51 @@
+.gallery img{
+    
+    
+    width:100px
+    
+   text-align:center;
+    font-size: 30px;
+    color:aqua;
+    font-style: italic;
+            
+            
+        
+}
+h4{
+      
+    
+    
+    font-family: impact,fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+    padding: 12px
+}
+
+p{
+    
+ font-family:Helvetica,sans-serif;
+ 
+}
+    
+   
+    
+#menu{
+    width: 100px;
+        height:40px;
+    background-color:  cornflowerblue
+  padding-top:12px;
+    }
+#menu a{
+  color: #ffffff;  
+    font-family:fantasy
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
+
